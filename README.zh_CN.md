@@ -16,6 +16,7 @@
 ### 可安装系统
 
 - macOS Big Sur 11.4
+- macOS Big Sur 11.5.2
 - macOS Catalina 10.15.7 (需替换wifi驱动 `AirportItlwm.kext` 为 Catalina 版本)
 
 
@@ -26,6 +27,8 @@ BIOS version **FNCML357.0050 (latest)**
 + Advanced
   - Storage
     * SATA Mode Selection -> AHCI
+  - Onboard Devices
+    * Audio DSP  -> off
   - Video
     * IGD Minimum Memory -> 64MB
     * IGD Aperture Size -> 256MB
