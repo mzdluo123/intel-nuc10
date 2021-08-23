@@ -68,7 +68,7 @@ BIOS version **FNCML357.0050 (latest)**
 ### 已知问题
 - 雷电3设备支持较不稳定。
 - Airdrop 无效。
-
+- Apple Music 无法播放无损。
 
 ### Kexts
 

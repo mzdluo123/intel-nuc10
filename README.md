@@ -20,6 +20,7 @@
 ### OS Version Tested
 
 - macOS Big Sur 11.4
+- macOS Big Sur 11.5.2
 - macOS Catalina 10.15.7 (Need to replace `AirportItlwm.kext` to Catalina version)
 
 
@@ -30,6 +31,8 @@ BIOS version **FNCML357.0050 (latest)**
 + Advanced
   - Storage
     * SATA Mode Selection -> AHCI
+  - Onboard Devices
+    * Audio DSP  -> off
   - Video
     * IGD Minimum Memory -> 64MB
     * IGD Aperture Size -> 256MB
@@ -67,7 +70,7 @@ If it's the first time your nuc10 install with macOS, you must unlock CFG before
 
 - Thunderbolt 3 Support very buggy
 - Continuity features not work(EXCEPT HandOff and Universal Clipboard).
-
+- Apple Music lossless not work
 
 ### Kexts
 
